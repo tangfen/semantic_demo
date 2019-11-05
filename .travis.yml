@@ -6,7 +6,7 @@ jobs:
   - stage: release
     if: branch = master
     node_js: lts/*
-    script: skip
+    script: npm run test:single
     deploy:
       provider: script
       skip_cleanup: true
