@@ -35,11 +35,6 @@
     "mocha": "^6.2.2",
     "semantic-release": "^15.13.30"
   },
-  "husky": {
-    "hooks": {
-      "prepare-commit-msg": "exec < /dev/tty && git cz --hook"
-    }
-  },
   "config": {
     "commitizen": {
       "path": "cz-conventional-changelog"
