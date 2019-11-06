@@ -37,7 +37,7 @@
     "path": "node_modules/cz-conventional-changelog"
   },
   "config": {
-    "ghookd":{
+    "ghooks":{
       "pre-commit" : "npm run test:single"
     }
   }
