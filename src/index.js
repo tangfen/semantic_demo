@@ -6,7 +6,7 @@ let getRandomItem = uniqueRandomArray(starName);
 
 module.exports = {
   all: starName,
-  random:random
+  random:random,,
 };
 
 function random(number) {
