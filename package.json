@@ -1,6 +1,6 @@
 {
   "name": "@miyatang/semantic_demo",
-  "version": "2.2.2",
+  "version": "2.3.0",
   "description": "semantic_demp",
   "main": "src/index.js",
   "scripts": {
